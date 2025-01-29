@@ -1,0 +1,2 @@
+my:
+  greeting: "Newly updated Hello world!! from spring-boot-config microservice"
